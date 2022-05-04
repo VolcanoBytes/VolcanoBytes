@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VolcanoBytes
-- 👀 I’m interested in ... GameDev,Pixel Art, Music & Art
-- 🌱 I’m currently developing ... Galactic Wars EX
+- 👀 I’m interested in ... GameDev, Pixel Art, Chip-Tune & RetroGaming
+- 🌱 I’m currently working on ... Galactic Wars EX (Steam, XBox, PS5, PS4, Switch)
 - 📫 How to reach me ... twitter: https://twitter.com/VolcanoBytes
 <!---
 VolcanoBytes/VolcanoBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
